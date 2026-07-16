@@ -1,12 +1,12 @@
 {
-    "version": "0.3.2",
+    "version": "0.4.0",
     "description": "A fork of the multi-platform proxy client FlClash based on ClashMeta, simple and easy to use, open-source and ad-free.",
     "homepage": "https://github.com/pluralplay/FlClashX",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pluralplay/FlClashX/releases/download/v0.3.2/FlClashX-windows-amd64.zip",
-            "hash": "0038e0f587a17f1898ede6041b9e7745af7f8080300fb685a7da3d7f5bb9c6ec"
+            "url": "https://github.com/pluralplay/FlClashX/releases/download/v0.4.0/FlClashX-windows-amd64.zip",
+            "hash": "47f6be14f1ed198e5b1afba0ed05bd045da461c0b10a0bafc596970d56b0d8af"
         }
     },
     "shortcuts": [
