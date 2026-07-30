@@ -10,6 +10,9 @@
         }
     },
     "bin": "PKGInstall.exe",
+    "shortcuts": [
+        [ "PKGInstall.exe", "PKGInstall" ]
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
