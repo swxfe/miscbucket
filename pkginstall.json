@@ -1,0 +1,19 @@
+{
+    "version": "Release",
+    "homepage": "https://github.com/Muggle345/PKGInstall",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Muggle345/PKGInstall/releases/download/Release/PKGInstall-win64-2025-10-24-96c7890.zip",
+            "hash": "b553fd1480300666fa045824550dbfcf05c7d162358baae27a3011b0e55fec08"
+        }
+    },
+    "bin": "PKGInstall.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/Muggle345/PKGInstall/releases/download/$version/PKGInstall-win64-2025-10-24-96c7890.zip"
+            }
+        }
+    }
+}
