@@ -1,6 +1,7 @@
 {
+    "##": "Deprecated because the original SpotiFLAC release is no longer available. Its GitHub URL redirects to Flacora.",
     "version": "7.2.2",
-    "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. ",
+    "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
     "homepage": "https://github.com/afkarxyz/SpotiFLAC",
     "license": "MIT",
     "architecture": {
@@ -15,13 +16,5 @@
             "SpotiFLAC.exe",
             "SpotiFLAC"
         ]
-    ],
-    "checkver": "github",
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/afkarxyz/SpotiFLAC/releases/download/v$version/SpotiFLAC.exe"
-            }
-        }
-    }
+    ]
 }
